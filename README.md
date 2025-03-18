@@ -130,13 +130,14 @@ I concentrate on the following core areas—blending fundamental principles with
 
 ---
 
-### 7️⃣ Image Recognition-based Algorithm for E-commerce  
+### 7️⃣ Image Recognition-based ML-DL Algorithms Comparison for E-commerce  
 - **Overview:**  
   Designed ML/DL models for classifying and sorting e-commerce product images, improving personalized recommendation systems.
 - **Technical Details:**  
   - **Data Processing:** Leverages deep learning frameworks for image recognition and classification.  
   - **Personalization:** Enhances user experience by tailoring recommendations based on automated product sorting.
-
+- **Repository:**
+  [MLDL Image Classification Methods Comparision](https://github.com/Ashish-Paka/ML-DL-Models-Comparison_Images_FashionMNISTDataset-Classification_SearchPersonalisation.git)
 ---
 
 ## 🛠 Technical Skills
@@ -183,7 +184,7 @@ I concentrate on the following core areas—blending fundamental principles with
 
 ## 💼 Professional Experience
 
-### Engineer – Larsen & Toubro Technology Services (LTTS), Bangalore, India  
+### Engineer – Larsen & Toubro Technology Services (LTTS), Bangalore, India  ⚙️⚙️
 *September 2020 – June 2023*  
 - **Role:** Mechanical product design and analysis engineer.
 - **Responsibilities:**  
@@ -195,7 +196,7 @@ I concentrate on the following core areas—blending fundamental principles with
 
 ---
 
-### Student Researcher – LOGOS Robotics Lab, ASU  
+### Student Researcher – LOGOS Robotics Lab, ASU  🤖🤖
 *August 2023 – May 2025 (M.S. Program)*  
 - **Focus:**  
   - Developing transformer-based models for human–robot motion alignment.  
@@ -203,7 +204,7 @@ I concentrate on the following core areas—blending fundamental principles with
 
 ---
 
-### Student Rocketry Lead – ThrustMIT (Vyom & Arya, SA Cup)  
+### Student Rocketry Lead – ThrustMIT (Vyom & Arya, SA Cup)  🚀🚀
 *August 2017 – September 2020*  
 - **Role:** Senior Structures and Composites Member.
 - **Achievements:**  
@@ -234,6 +235,57 @@ I concentrate on the following core areas—blending fundamental principles with
 
 ---
 
+
+Below is an **extensive set of software badges** (in Markdown format) that you can **copy directly** into your README. This list includes **PTC Creo, OpenRocket, NVIDIA**, and other common tools and frameworks in robotics, AI, mechanical design, DevOps, and aerospace.
+
+> **Tip**: Feel free to reorder or remove any badges that aren’t relevant to your particular workflow.
+
+---
+
+## 🛠 **Software & Tools**  
+
+### **Programming & Development**  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+
+### **Robotics & Simulation**  
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-EB4034?style=for-the-badge&logo=gazebo&logoColor=white) ![PyBullet](https://img.shields.io/badge/PyBullet-FF9900?style=for-the-badge&logo=python&logoColor=white) ![MuJoCo](https://img.shields.io/badge/MuJoCo-5A5A5A?style=for-the-badge&logo=robotframework&logoColor=white) ![MoveIt](https://img.shields.io/badge/MoveIt-512BD4?style=for-the-badge&logo=robotframework&logoColor=white) ![OpenAI Gym](https://img.shields.io/badge/OpenAI_Gym-0081A7?style=for-the-badge&logo=openai&logoColor=white)
+
+
+### **AI & Perception**  
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![LiDAR SLAM](https://img.shields.io/badge/LiDAR--SLAM-4A90E2?style=for-the-badge&logo=slides&logoColor=white) ![Vision Transformers](https://img.shields.io/badge/Vision--Transformers-764ABC?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+### **CAD & Mechanical Design**  
+
+![PTC Creo](https://img.shields.io/badge/PTC_Creo-00599C?style=for-the-badge&logo=PTC&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white) ![Autodesk Inventor](https://img.shields.io/badge/Inventor-FF6600?style=for-the-badge&logo=autodesk&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FAA41A?style=for-the-badge&logo=autodesk&logoColor=white) ![ANSYS](https://img.shields.io/badge/ANSYS-FF9900?style=for-the-badge&logo=ansys&logoColor=white) ![COMSOL](https://img.shields.io/badge/COMSOL-5A5A5A?style=for-the-badge&logo=comsol&logoColor=white)
+
+
+### **Rocket & Aerospace Tools**  
+
+![OpenRocket](https://img.shields.io/badge/OpenRocket-2D5BE3?style=for-the-badge&logo=rocket&logoColor=white)
+
+
+### **DevOps & Version Control**  
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+
+### **NVIDIA & GPU Computing**  
+
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![NVIDIA Labs](https://img.shields.io/badge/NVIDIA%20Labs-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+
+### **Operating Systems**  
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+
+---
+🚀🔥
 ## 📈 Let's Connect!
 
 - **GitHub:** [Ashish-Paka](https://github.com/Ashish-Paka)  
