@@ -13,15 +13,11 @@
 I am a passionate **Robotics Engineer** with deep expertise in **advanced perception, multi-robot coordination, reinforcement learning, and control systems**. My academic journey—earning an **M.S. in Robotics & Autonomous Systems** from ASU and a **B.Tech in Mechanical Engineering** from Manipal Institute of Technology—has provided me with a solid foundation in mathematics, control theory, kinematics, and dynamics. These skills are crucial for designing and deploying real-world autonomous systems.
 
 I have refined my abilities through diverse hands-on projects and research, including:
-
-- **Research at LOGOS Robotics Lab:**  
+- **Robotics Projects and research during my M.Sc. Robotics and Autonomous Systems at ASU**
+- **Research at LOGOS Robotics Lab: ( 2025 Jan onwards )**  
   Under Prof. Nakul Gopalan, I contributed to a *shared action space for human–robot collaboration* by combining skill learning, computer vision, and reinforcement learning.
 
-- **Industrial & Aerospace Projects:**  
-  From designing rocket structures (*Project Arya* and *Project Vyom*) to developing plug gauge tools at BHEL and simulating Total Knee Replacement Implants, I have applied engineering principles across varied domains.
 
-- **Innovation & Patents:**  
-  Recognized for innovation as the patent holder of “A SYSTEM FROM EJECTION” (Patent No: 506725).
 
 I thrive on integrating robotics software with cutting-edge mechanical design to create transformative solutions that push the boundaries of autonomous systems.
 
@@ -46,11 +42,20 @@ I concentrate on the following core areas—blending fundamental principles with
 - **Control Systems & Kinematics:**  
   *Utilizing classical PID, advanced motion planning, inverse kinematics, and Jacobian-based corrections to achieve precision in robotic motion and industrial automation.*
 
-- **Mechanical Design & Simulation:**  
-  *Applying advanced CAD tools (CREO, SOLIDWORKS, CATIA, Fusion360, Inventor) and simulation platforms (ANSYS for FEA/CFD) to design and analyze complex mechanical structures.*
-
 - **Mathematics & Computational Methods:**  
   *Grounded in linear algebra, dynamics, and advanced system modeling to develop robust algorithms for perception, sensor fusion, and optimization.*
+
+## 🔥 Bachelors Research and Industry Work Experience
+
+- **Mechanical Design & Simulation:**  
+  *Applying advanced CAD tools (CREO, SOLIDWORKS, CATIA, Fusion360, Inventor) and simulation platforms (ANSYS for FEA/CFD) to design and analyze complex mechanical structures.*
+  
+- **Industrial & Aerospace Projects:**  
+  From designing rocket structures (*Project Arya* and *Project Vyom*) at India's top student rocketry team "thrustMIT" as a rocket engineer. Working for LTTS as a Mechanical Engineer. Developing plug gauge tools at BHEL and simulating Total Knee Replacement Implants, I have applied engineering principles across varied domains.
+
+- **Innovation & Patents:**  
+  Recognized for innovation as the patent holder of “A SYSTEM FROM EJECTION” (Patent No: 506725).
+
 
 ---
 
