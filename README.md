@@ -27,7 +27,7 @@ I thrive on integrating robotics software with cutting-edge mechanical design to
 
 I concentrate on the following core areas—blending fundamental principles with advanced research methodologies:
 
-- **Machine Learning, Deep Learning, Generative AI and Transformers and Reinforcement Learning**
+- **Machine Learning, Deep Learning, Generative AI and Transformers and Reinforcement Learning:**
   *Developing new architectures in these new cutting edge fields based on linear algebra and data science. Expeienced in multi-modal gen AI development.*
   
 - **Swarm Robotics & Multi-Agent Systems:**  
