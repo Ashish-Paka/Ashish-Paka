@@ -10,7 +10,7 @@
 
 ## 🔥 About Me
 
-I am a passionate **Robotics Engineer** with deep expertise in **advanced perception, multi-robot coordination, reinforcement learning, and control systems**. My academic journey—earning an **M.S. in Robotics & Autonomous Systems** from ASU and a **B.Tech in Mechanical Engineering** from Manipal Institute of Technology—has provided me with a solid foundation in mathematics, control theory, kinematics, and dynamics. These skills are crucial for designing and deploying real-world autonomous systems.
+I am a passionate **Robotics and AI Engineer** with deep expertise in **advanced perception, multi-robot coordination, reinforcement learning, and control systems**. My academic journey—earning an **M.S. in Robotics & Autonomous Systems** from ASU and a **B.Tech in Mechanical Engineering** from Manipal Institute of Technology—has provided me with a solid foundation in mathematics, control theory, kinematics, and dynamics. These skills are crucial for designing and deploying real-world autonomous systems.
 
 I have refined my abilities through diverse hands-on projects and research, including:
 - **Robotics Projects and research during my M.Sc. Robotics and Autonomous Systems at ASU**
