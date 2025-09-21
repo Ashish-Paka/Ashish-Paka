@@ -27,6 +27,9 @@ I thrive on integrating robotics software with cutting-edge mechanical design to
 
 I concentrate on the following core areas—blending fundamental principles with advanced research methodologies:
 
+- **Machine Learning, Deep Learning, Generative AI and Transformers and Reinforcement Learning**
+  *Developing new architectures in these new cutting edge fields based on linear algebra and data science. Expeienced in multi-modal gen AI development.*
+  
 - **Swarm Robotics & Multi-Agent Systems:**  
   *Exploring collaborative mapping, distributed decision-making, and reinforcement learning (MARL) to enable robust autonomous exploration and coordination.*
 
@@ -44,6 +47,8 @@ I concentrate on the following core areas—blending fundamental principles with
 
 - **Mathematics & Computational Methods:**  
   *Grounded in linear algebra, dynamics, and advanced system modeling to develop robust algorithms for perception, sensor fusion, and optimization.*
+
+
 
 ## 🔥 Bachelors Research and Industry Work Experience
 
